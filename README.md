@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 - 🌱 I’m currently learning JavaScript, Node.js, Python.
 - 📫 How to reach me: leonardoazzolaz@gmail.com
